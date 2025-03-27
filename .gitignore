@@ -1,2 +1,6 @@
-
-/home/proven/simple_rag/.venv
+.Venv
+.gradio
+data
+offload_dir
+.env
+chroma_db
